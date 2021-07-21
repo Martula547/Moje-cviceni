@@ -1,0 +1,11 @@
+h1 {
+    font-size: 48px;
+    color: blue;
+}
+h1::first-letter {
+    color: rgb(230, 16, 212);
+    font-weight: bold;
+}
+body {
+    text-align: center;
+}
